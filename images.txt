@@ -1,1 +1,1 @@
-anmour/bncr:latest
+xieshang/AutoSpy
